@@ -3,13 +3,47 @@ body{
     margin-right: 25%;
     margin-left: 25%;
 }
-img{
+
+.Woody{
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 50%;
     border-radius: 5%;
 }
+
 h1{
     text-align: center;
+    color: #c20000;
+}
+
+div{
+    background-color:rgba(255, 217, 0, 0.466) ;
+    padding: 2%;
+    margin: 3%;
+    border-radius: 10%;
+}
+
+h2{
+    margin-left: 1%;
+    margin-top: 3%;
+    height: 100%;
+}
+
+footer{
+    background-color: #945400;
+    width: 100%;
+    position: absolute;
+    left: 0;
+    font-size: 150%;
+}
+
+.Andy{
+    float: right;
+    width: 10%;
+}
+iframe{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
